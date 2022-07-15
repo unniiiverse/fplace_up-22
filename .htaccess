@@ -1,0 +1,2 @@
+ErrorDocument 403 https://assets.unniv.info/serverFiles/err403/
+ErrorDocument 404 https://assets.unniv.info/serverFiles/err404/
