@@ -23,7 +23,7 @@ $fontWeight: 400;
 // Контейнер
 $wrapperMinWidth: 320px;
 $wrapperMaxWidth: 1170px;
-$wrapperPadding: rem(14px); //28px (по 14 справа и слева)
+$wrapperPadding: rem(24px); //28px (по 14 справа и слева)
 
 //* === МОДУЛИ. Все модули описаны в modules.md в корне проекта.
 // КОНФИГУРАЦИЯ МОДУЛЕЙ. //! ПРИ ПОДКЛЮЧЕНИИ НЕОБХОДИМО ТАК ЖЕ ВКЛЮЧИТЬ ЭТОТ МОДУЛЬ В js/modules.js
@@ -89,4 +89,5 @@ img {
 
 @import '_common';
 @import '_header';
+@import '_page-main';
 @import '_footer';
