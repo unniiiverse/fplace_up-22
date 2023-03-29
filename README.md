@@ -1,7 +1,16 @@
 # f.place
-## Одностраничный сайт ресторана с адаптивом под все девайсы. Сайт был выполнен за 3 дня. (не учитывая баг-фиксов UVST).
-*Сайт был написан на базе UVST v1.0.1 (UnniiiVerse starting template).*
-![]()
+![PREVIEW](cover.png)
 
-*Работа не является коммерческой. Все права принадлежат их исконным владельцам. Автор не несёт ответственноти за правдивость информацци представленой на данном сайте.*
+Landing page for a restaurant with adaptive for all devices.
+
+## [VISIT](https://unniiiverse.github.io/project/2022/fplace)
+
+Type: Langing page, uncomercial. <br>
+Language: ENG. <br>
+Completed in: 3 days. <br>
+
+Status: UNCOMPLETED <br>
+UVST version: v1.0.1. <br>
+Last commit: JUL 15, 2022. <br>
+
 unniiiverse © 2022
